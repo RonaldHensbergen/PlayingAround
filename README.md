@@ -1,10 +1,11 @@
-#Playing Around Repository
 ---
 title: "README.md"
 author: "Ronald Hensbergen"
-date: "3 november 2016"
+date: "1 november 2016"
 output: html_document
 ---
+
+#Playing Around Repository
 
 This repository is meant for some fun projects I did, just because I liked doing it. Or at least I saved it because I liked it. Below I explain each file.
 
